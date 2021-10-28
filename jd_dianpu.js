@@ -1,7 +1,4 @@
 /*
-京享红包
-3IUgcK0  可替换8处为自己ID
-https://u.jd.com/3IUgcK0
 0 0,12,18 * * *
 */
 
