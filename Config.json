@@ -1,0 +1,20 @@
+{
+  ///最大支持几个网页
+  "MaxTab": "6",
+  //网站标题
+  "Title": "小羊羊吃青草",
+  //网站公告
+  "Announcement": "本项目脚本收集于互联网，为了您的财产安全，请关闭京东免密支付。",
+  ///XDD PLUS Url  http://IP地址:端口/api/login/smslogin
+  "XDDurl": "http://192.168.1.88:8080/api/login/smslogin",
+  ///xddToken 需XDD升级到最新版，并在xdd的配置里加入ApiToken: 123456
+  "XDDToken": "123456",
+  ///关闭debug只需要将true删掉留空即可
+  "Debug": "true",
+  ///接入xdd下面的配置不用再改，上面改好就行。
+  ///青龙配置 注意 如果不要青龙  Config :[]
+  ///多青龙配置
+  "Config": [
+  ]
+
+}
